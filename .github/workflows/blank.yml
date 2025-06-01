@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy for Testnet PI App</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
+    h1 { text-align: center; font-size: 24px; }
+    h2 { margin-top: 24px; color: #333; }
+    p, li { font-size: 14px; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for Testnet PI App</h1>
+  <p><strong>Effective Date:</strong> June 1, 2025</p>
+
+  <h2>Purpose of the App</h2>
+  <p>This app is for testing and development purposes only. It is not intended for public or commercial use. The data collected may not be stored securely or permanently and should not include real, sensitive, or legally protected personal information.</p>
+
+  <h2>What We Collect</h2>
+  <p>For testing purposes, we may temporarily collect the following types of information:</p>
+  <ul>
+    <li>Simulated names or user IDs</li>
+    <li>Test email addresses or phone numbers</li>
+    <li>Generic device or network data (e.g., IP address)</li>
+    <li>Logs and usage data for debugging</li>
+  </ul>
+  <p><strong>Important:</strong> Do not use real personal information in this testnet app.</p>
+
+  <h2>How We Use Information</h2>
+  <p>The information collected is used solely to:</p>
+  <ul>
+    <li>Test app functionality</li>
+    <li>Debug and resolve issues</li>
+    <li>Improve app performance in a controlled environment</li>
+  </ul>
+  <p>No data will be used for marketing, profiling, or third-party sharing.</p>
+
+  <h2>Data Retention</h2>
+  <p>All data is temporary. Test data may be deleted at any time, without notice. We do not guarantee data backups or recoverability in the testnet environment.</p>
+
+  <h2>Data Security</h2>
+  <p>While we apply basic security principles, testnet systems are not hardened or fully secured. Do not submit real PI or sensitive data. Use only placeholder/test data.</p>
+
+  <h2>Third-Party Access</h2>
+  <p>We do not share test data with third parties, except with our own development tools or hosting services used solely for testing.</p>
+
+  <h2>User Rights</h2>
+  <p>Since this is a testnet app:</p>
+  <ul>
+    <li>No user accounts are officially registered</li>
+    <li>Data privacy laws such as GDPR, CCPA, etc., do not apply</li>
+    <li>You may request test data removal, but there is no guarantee of retention or response</li>
+  </ul>
+
+  <h2>Changes to this Policy</h2>
+  <p>This policy may be updated without notice during the test lifecycle. The most current version will be available within the app or accompanying documentation.</p>
+
+  <h2>Contact</h2>
+  <p>Email: support@testnetpiapp.com<br>Developer: Killian Lowery<br>App Version: v0.9.1-testnet</p>
+
+  <p><strong>Reminder:</strong> This is a testnet application. Do not submit real or sensitive personal data.</p>
+</body>
+</html>
+ 
